@@ -1,0 +1,9 @@
+C:\Users\КеримтайА\source\repos\EarthquakeTestWpf\EarthquakeTestWpf.DTO\bin\Debug\EarthquakeTestWpf.DTO.dll
+C:\Users\КеримтайА\source\repos\EarthquakeTestWpf\EarthquakeTestWpf.DTO\bin\Debug\EarthquakeTestWpf.DTO.pdb
+C:\Users\КеримтайА\source\repos\EarthquakeTestWpf\EarthquakeTestWpf.DTO\bin\Debug\Newtonsoft.Json.dll
+C:\Users\КеримтайА\source\repos\EarthquakeTestWpf\EarthquakeTestWpf.DTO\bin\Debug\Newtonsoft.Json.xml
+C:\Users\КеримтайА\source\repos\EarthquakeTestWpf\EarthquakeTestWpf.DTO\obj\Debug\EarthquakeTestWpf.DTO.csprojAssemblyReference.cache
+C:\Users\КеримтайА\source\repos\EarthquakeTestWpf\EarthquakeTestWpf.DTO\obj\Debug\EarthquakeTestWpf.DTO.csproj.CoreCompileInputs.cache
+C:\Users\КеримтайА\source\repos\EarthquakeTestWpf\EarthquakeTestWpf.DTO\obj\Debug\EarthquakeTestWpf.DTO.csproj.CopyComplete
+C:\Users\КеримтайА\source\repos\EarthquakeTestWpf\EarthquakeTestWpf.DTO\obj\Debug\EarthquakeTestWpf.DTO.dll
+C:\Users\КеримтайА\source\repos\EarthquakeTestWpf\EarthquakeTestWpf.DTO\obj\Debug\EarthquakeTestWpf.DTO.pdb

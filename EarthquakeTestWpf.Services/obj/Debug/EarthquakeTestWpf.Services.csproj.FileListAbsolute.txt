@@ -1,0 +1,6 @@
+C:\Users\КеримтайА\source\repos\EarthquakeTestWpf\EarthquakeTestWpf.Services\bin\Debug\EarthquakeTestWpf.Services.dll
+C:\Users\КеримтайА\source\repos\EarthquakeTestWpf\EarthquakeTestWpf.Services\bin\Debug\EarthquakeTestWpf.Services.pdb
+C:\Users\КеримтайА\source\repos\EarthquakeTestWpf\EarthquakeTestWpf.Services\obj\Debug\EarthquakeTestWpf.Services.csprojAssemblyReference.cache
+C:\Users\КеримтайА\source\repos\EarthquakeTestWpf\EarthquakeTestWpf.Services\obj\Debug\EarthquakeTestWpf.Services.csproj.CoreCompileInputs.cache
+C:\Users\КеримтайА\source\repos\EarthquakeTestWpf\EarthquakeTestWpf.Services\obj\Debug\EarthquakeTestWpf.Services.dll
+C:\Users\КеримтайА\source\repos\EarthquakeTestWpf\EarthquakeTestWpf.Services\obj\Debug\EarthquakeTestWpf.Services.pdb
